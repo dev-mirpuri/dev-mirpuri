@@ -1,5 +1,5 @@
 # About Me:
-I am a second year undegraduate Computer Science student studying at the University of Liverpool, UK.<br>Currently working on an Expense Tracker using Django to improve my technical usage of it<br>Let me know if you'd like to collaborate on projects<br><br>Currently looking for an Year Long Industrial Placement job for 2025<br><br>
+I am a second year undergraduate Computer Science student studying at the University of Liverpool, UK.<br>Currently working on an Expense Tracker using Django to improve my technical usage of it<br>Let me know if you'd like to collaborate on projects<br><br>Currently looking for an Year Long Industrial Placement job for 2025<br><br>
 
 
 ## 🌐 Socials:
